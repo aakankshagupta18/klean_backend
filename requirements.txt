@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+gradio-client
+starlette
+easyocr
+sqlalchemy
+boto3
+botocore
